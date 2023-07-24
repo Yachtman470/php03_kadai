@@ -34,7 +34,7 @@ if($status==false) {
 <header>
   <nav class="navbar navbar-default">
     <div class="container-fluid">
-    <div class="navbar-header"><a class="navbar-brand" href="select.php">データ一覧</a></div>
+    <div class="navbar-header"><a class="navbar-brand" href="bm_list_view.php">ブックマーク一覧へ</a></div>
     </div>
   </nav>
 </header>

@@ -54,7 +54,7 @@ if($status==false) {
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <div class="navbar-header">
-      <a class="navbar-brand" href="index.php">ブックマークした書籍一覧</a>
+      <a class="navbar-brand" href="index.php">ブックマーク登録へ</a>
       </div>
     </div>
   </nav>
